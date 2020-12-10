@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">curriculum</string>
+    <string name="tips">如需更改课表，请先删除课程，再添加想应课程</string>
+</resources>
